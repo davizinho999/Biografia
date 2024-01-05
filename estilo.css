@@ -1,0 +1,27 @@
+* {background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;}
+
+img {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    align-items: center;
+    padding: 16px;
+}
+
+img{
+    width: 250px;
+    border-radius: 50%; 
+    border: 5px solid white;
+}
+
+.center{
+    text-align: center;
+}
+
+a {font-size: larger;}
